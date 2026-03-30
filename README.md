@@ -8,6 +8,10 @@ A simple todo list app built with React and Vite. The app keeps the UI clean and
 - Delete a task
 - Mark tasks as completed or pending
 
+## Preview
+
+![Todo List App](./public/preview.png)
+
 ## Tech Stack
 
 - React
